@@ -1,0 +1,153 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "840f0a60-c0b8-0134-8000-00505686a51c",
+    "@type": "sc:Manifest",
+    "label": {
+        "en": [
+            "Wagons"
+        ]
+    },
+    "metadata": [
+        {
+            "label": "Identifier (local_bnumber)",
+            "value": "b14120225"
+        },
+        {
+            "label": "Identifier (local_tms_id)",
+            "value": "110198"
+        },
+        {
+            "label": "Identifier (local_tms_object_number)",
+            "value": "MFY 96-4194, Plate 030"
+        },
+        {
+            "label": "Identifier (uuid)",
+            "value": "14b44ac0-c08a-0134-67c6-00505686a51c"
+        },
+        {
+            "label": "Identifier (uuid)",
+            "value": "025da240-835e-0134-3bb2-00505686a51c"
+        },
+        {
+            "label": "Identifier (oclc)",
+            "value": "41267493"
+        },
+        {
+            "label": "Physical Location (Repository)",
+            "value": "nn"
+        },
+        {
+            "label": "Physical Location (Division)",
+            "value": "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection"
+        },
+        {
+            "label": "Shelf Locator",
+            "value": "MFY 96-4194, Plate 030"
+        },
+        {
+            "label": "Physical Location (Division Short Name)",
+            "value": "Wallach Division: Photography Collection"
+        },
+        {
+            "label": "Physical Location (Code)",
+            "value": "PHG"
+        },
+        {
+            "label": "Name (Corporate)",
+            "value": "Mayo & Weed"
+        }
+    ],
+    "description": [
+        {
+            "@value": "Old Mexico: 1898 > Wagons",
+            "@language": "en"
+        }
+    ],
+    "license": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+    "attribution": "The New York Public Library",
+    "sequences": [
+        {
+            "@id": "http://sequence-840f0a60-c0b8-0134-8000-00505686a51c",
+            "@type": "sc:Sequence",
+            "label": [
+                {
+                    "@value": "Normal Sequence",
+                    "@language": "en"
+                }
+            ],
+            "canvases": [
+                {
+                    "@id": "http://canvas-840f0a60-c0b8-0134-8000-00505686a51c",
+                    "@type": "sc:Canvas",
+                    "label": "pl. 30",
+                    "height": "4500",
+                    "width": "6099",
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://image-840f0a60-c0b8-0134-8000-00505686a51c",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://qa-iiif.nypl.org/iiif/2/57030862/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://qa-iiif.nypl.org/iiif/2/57030862",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level2.json",
+                                        {
+                                            "formats": [
+                                                "jpg",
+                                                "tif",
+                                                "gif",
+                                                "png"
+                                            ],
+                                            "maxArea": 400000000,
+                                            "qualities": [
+                                                "bitonal",
+                                                "default",
+                                                "gray",
+                                                "color"
+                                            ],
+                                            "supports": [
+                                                "regionByPx",
+                                                "sizeByW",
+                                                "sizeByWhListed",
+                                                "cors",
+                                                "regionSquare",
+                                                "sizeByDistortedWh",
+                                                "sizeAboveFull",
+                                                "canonicalLinkHeader",
+                                                "sizeByConfinedWh",
+                                                "sizeByPct",
+                                                "jsonldMediaType",
+                                                "regionByPct",
+                                                "rotationArbitrary",
+                                                "sizeByH",
+                                                "baseUriRedirect",
+                                                "rotationBy90s",
+                                                "profileLinkHeader",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": "4500",
+                                "width": "6099"
+                            },
+                            "on": "http://canvas-840f0a60-c0b8-0134-8000-00505686a51c"
+                        }
+                    ],
+                    "related": ""
+                }
+            ]
+        }
+    ],
+    "thumbnail": {
+        "@id": "http://canvas-840f0a60-c0b8-0134-8000-00505686a51c"
+    }
+}
