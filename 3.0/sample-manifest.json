@@ -1,60 +1,12 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "id": "https://raw.githubusercontent.com/croyfish/iiif-manifest-validation/main/3.0/sample-manifest.json",
-    "@type": "sc:Manifest",
-    "label": {
-        "en": [
-            "Wagons"
-        ]
-    },
+    "type": "sc:Manifest",
+    "label": { "en": [ "Wagons" ] },
     "metadata": [
         {
-            "label": "Identifier (local_bnumber)",
-            "value": "b14120225"
-        },
-        {
-            "label": "Identifier (local_tms_id)",
-            "value": "110198"
-        },
-        {
-            "label": "Identifier (local_tms_object_number)",
-            "value": "MFY 96-4194, Plate 030"
-        },
-        {
-            "label": "Identifier (uuid)",
-            "value": "14b44ac0-c08a-0134-67c6-00505686a51c"
-        },
-        {
-            "label": "Identifier (uuid)",
-            "value": "025da240-835e-0134-3bb2-00505686a51c"
-        },
-        {
-            "label": "Identifier (oclc)",
-            "value": "41267493"
-        },
-        {
-            "label": "Physical Location (Repository)",
-            "value": "nn"
-        },
-        {
-            "label": "Physical Location (Division)",
-            "value": "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection"
-        },
-        {
-            "label": "Shelf Locator",
-            "value": "MFY 96-4194, Plate 030"
-        },
-        {
-            "label": "Physical Location (Division Short Name)",
-            "value": "Wallach Division: Photography Collection"
-        },
-        {
-            "label": "Physical Location (Code)",
-            "value": "PHG"
-        },
-        {
-            "label": "Name (Corporate)",
-            "value": "Mayo & Weed"
+            "label": { "en": [ "Identifier (local_bnumber)" ] },
+            "value": { "none": [ "b14120225" ] }
         }
     ],
     "description": [
