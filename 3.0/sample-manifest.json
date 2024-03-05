@@ -1,7 +1,7 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "id": "https://raw.githubusercontent.com/croyfish/iiif-manifest-validation/main/3.0/sample-manifest.json",
-    "type": "sc:Manifest",
+    "type": "Manifest",
     "label": { "en": [ "Wagons" ] },
     "metadata": [
         {
