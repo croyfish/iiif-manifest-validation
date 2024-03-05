@@ -101,6 +101,10 @@
         }
     ],
     "thumbnail": {
-        "@id": "http://canvas-840f0a60-c0b8-0134-8000-00505686a51c"
+        "@id": "https://iiif-qa.nypl.org/index.php?id=57030862&t=f",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": "140",
+        "width": "190"
     }
 }
