@@ -41,7 +41,7 @@
     ],
     "thumbnail": [
         {
-            "id": "https://iiif-qa.nypl.org/index.php?id=57030862&t=f",
+            "id": "https://iiif-prod.nypl.org/index.php?id=57030862&t=f",
             "type": "Image",
             "format": "image/jpeg",
             "height": 140,
