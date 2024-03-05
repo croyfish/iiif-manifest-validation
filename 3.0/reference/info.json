@@ -1,0 +1,27 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "extraFormats": [
+    "jpg"
+  ],
+  "extraQualities": [
+    "default"
+  ],
+  "height": 1180,
+  "id": "https://iiif.nypl.org/iiif/2/57030862",
+  "profile": "level1",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 512
+    }
+  ],
+  "type": "ImageService3",
+  "width": 1600
+}
