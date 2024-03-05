@@ -100,11 +100,13 @@
             ]
         }
     ],
-    "thumbnail": {
-        "id": "https://iiif-qa.nypl.org/index.php?id=57030862&t=f",
-        "type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": "140",
-        "width": "190"
-    }
+    "thumbnail": [
+        {
+            "id": "https://iiif-qa.nypl.org/index.php?id=57030862&t=f",
+            "type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": "140",
+            "width": "190"
+        }
+    ]
 }
