@@ -1,0 +1,74 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/croyfish/iiif-manifest-validation/main/3.0/muffin-man.json",
+    "type": "Manifest",
+    "label": { "en": [ "The Muffin Man" ] },
+    "items": [
+        {
+            "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p1",
+            "type": "Canvas",
+            "label": { "en": [ "The Muffin Man" ] },
+            "height": 760,
+            "width": 408,
+            "items": [
+                {
+                    "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/page/p1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/annotation/p0001-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.nypl.org/iiif/2/1816001/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 408
+                            },
+                            "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p1",
+            "type": "Canvas",
+            "label": { "en": [ "The Muffin Man" ] },
+            "height": 760,
+            "width": 408,
+            "items": [
+                {
+                    "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/page/p1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/annotation/p0001-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.nypl.org/iiif/2/1816002/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 408
+                            },
+                            "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+ 
+    ],
+    "thumbnail": [
+        {
+            "id": "https://iiif-prod.nypl.org/index.php?id=1816001&t=f",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 140,
+            "width": 190
+        }
+    ]
+}
