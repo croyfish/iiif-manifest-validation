@@ -7,7 +7,7 @@
     "default"
   ],
   "height": 1180,
-  "id": "https://raw.githubusercontent.com/croyfish/iiif-manifest-validation/main/3.0/reference/57030862",
+  "id": "https://iiif.nypl.org/iiif/2/57030862",
   "profile": "level1",
   "protocol": "http://iiif.io/api/image",
   "tiles": [
