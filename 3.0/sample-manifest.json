@@ -34,11 +34,11 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://iiif.io/api/image/3.0/example/reference/59d09e6773341f28ea166e9f3c1e674f-gallica_ark_12148_bpt6k1526005v_f18/full/max/0/default.jpg",
+                                "id": "https://iiif-qa.nypl.org/index.php?id=57030862&t=q",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 4613,
-                                "width": 3204,
+                                "height": 1180,
+                                "width": 1600,
                                 "service": [
                                     {
                                         "id": "https://iiif.io/api/image/3.0/example/reference/59d09e6773341f28ea166e9f3c1e674f-gallica_ark_12148_bpt6k1526005v_f18",
@@ -139,7 +139,7 @@
     "thumbnail": [
         {
             "id": "https://iiif-qa.nypl.org/index.php?id=57030862&t=f",
-            "type": "dctypes:Image",
+            "type": "Image",
             "format": "image/jpeg",
             "height": "140",
             "width": "190"
