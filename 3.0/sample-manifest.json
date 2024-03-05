@@ -17,7 +17,17 @@
     ],
     "license": "http://rightsstatements.org/vocab/NoC-US/1.0/",
     "attribution": "The New York Public Library",
-    "items": [],
+    "items": [
+        {
+            "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Blank page"
+                ]
+            }
+        }
+    ],
     "sequences": [
         {
             "@id": "http://sequence-840f0a60-c0b8-0134-8000-00505686a51c",
