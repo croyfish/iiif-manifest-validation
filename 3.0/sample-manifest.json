@@ -21,11 +21,10 @@
         {
             "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1",
             "type": "Canvas",
-            "label": {
-                "en": [
-                    "Blank page"
-                ]
-            }
+            "label": { "en": [ "Blank page" ] },
+            "height": 4613,
+            "width": 3204,
+            "items": []
         }
     ],
     "sequences": [
