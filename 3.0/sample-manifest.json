@@ -9,14 +9,6 @@
             "value": { "none": [ "b14120225" ] }
         }
     ],
-    "description": [
-        {
-            "@value": "Old Mexico: 1898 > Wagons",
-            "@language": "en"
-        }
-    ],
-    "license": "http://rightsstatements.org/vocab/NoC-US/1.0/",
-    "attribution": "The New York Public Library",
     "items": [
         {
             "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1",
@@ -215,8 +207,8 @@
             "id": "https://iiif-qa.nypl.org/index.php?id=57030862&t=f",
             "type": "Image",
             "format": "image/jpeg",
-            "height": "140",
-            "width": "190"
+            "height": 140,
+            "width": 190
         }
     ]
 }
