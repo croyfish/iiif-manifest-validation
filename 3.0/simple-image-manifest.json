@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/croyfish/iiif-manifest-validation/main/3.0/simple-image-manifest.json"
+  "id": "https://raw.githubusercontent.com/croyfish/iiif-manifest-validation/main/3.0/simple-image-manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
