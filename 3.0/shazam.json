@@ -1,0 +1,41 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.io/api/cookbook/recipe/0003-mvm-video/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Video Example 3"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0003-mvm-video/canvas",
+      "type": "Canvas",
+      "height": 360,
+      "width": 640,
+      "duration": 572.034,
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0003-mvm-video/canvas/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0003-mvm-video/canvas/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://cdn-repo-media.nypl.org/994d2bd0-f876-0130-9b10-3c075448cc4b/994d2bd0-f876-0130-9b10-3c075448cc4b-high.mp4?Expires=1709794127&Signature=PD4eKcNZpRD3-bXI8Sf5T9Vf9xLTAJjac04Iy59IsmD3wPwCDD0xbubUXagiBb-vq3S-8hBD3yessLuN1rk2elOOer2wq9yPeU72MUA~cMXkGiLz5s9aiho3RIRcBiKHaGjlFFEG~7gF7XG8mpCqe5jHGdsBQetB8zEHI6zmoq~EfRr80Tbx3Ws3nGhKYdDIPVCAu7EwCk8Nb2Ai7MZ2cRQHyBPGBouk8BkZtVpEI7h~vpWGUsJaL1nmY3CU~XMSyWzdygfSl-GrSR3wmbcCaf5Nld6-QAStKvyUBb-hTYou1yXjiNvUu4NWBC2xWrLfWlPSmwLElWb6zGAI0j008w__&Key-Pair-Id=APKAINBBLCACFPSEZH3A",
+                "type": "Video",
+                "height": 360,
+                "width": 480,
+                "duration": 572.034,
+                "format": "video/mp4"
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0003-mvm-video/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
