@@ -2,11 +2,7 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://raw.githubusercontent.com/croyfish/iiif-manifest-validation/main/3.0/philippines.json",
   "type": "Manifest",
-  "label": {
-    "en": [
-      "Simplest Audio Example 1"
-    ]
-  },
+  "label": { "en": [ "Philippines" ] },
   "items": [
     {
       "id": "https://iiif.io/api/cookbook/recipe/0002-mvm-audio/canvas",
